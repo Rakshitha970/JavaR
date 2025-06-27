@@ -16,6 +16,7 @@ public  class Array
 		arr[5]=60;
 		
 		System.out.println(arr[4]);
+		System.out.println(arr);
 	}
 
 }
